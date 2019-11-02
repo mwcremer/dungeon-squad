@@ -7,7 +7,7 @@ Here are all the _Dungeon Squad!_ resources I could find on the &rsquo;net. Many
    1. [\[local\]](Dungeon%20Squad%20\(meepo\).pdf)
 
 1. Artikid. _Complete Dungeon Squad!_. 14 May 2007
-   1. http://www.rpglaboratory.com/complete_dungeon_squad
+   1. ~~http://www.rpglaboratory.com/complete_dungeon_squad~~
    1. [\[archive\]](https://web.archive.org/web/20100502074444/http://www.rpglaboratory.com/complete_dungeon_squad)
    1. [\[local\]](complete.html)
 
@@ -32,7 +32,7 @@ Here are all the _Dungeon Squad!_ resources I could find on the &rsquo;net. Many
    1. [\[local\]](Dungeon%20Squad%20Coin%20Op.pdf)
 
 1. Domino, Andrew. _Adventure Squad_. 06 Oct 2010
-   1. http://dominowriting.com/ASQCoreV4.pdf
+   1. ~~http://dominowriting.com/ASQCoreV4.pdf~~
    1. [\[archive\]](https://web.archive.org/web/20101006003808/http://dominowriting.com/ASQCoreV4.pdf)
    1. [\[local\]](Adventure%20Squad.pdf)
 
@@ -53,12 +53,12 @@ Here are all the _Dungeon Squad!_ resources I could find on the &rsquo;net. Many
    1. (looking for a copy)
 
 1. Powell, John. _Cthulu Squad_. 02 May 2008
-   1. http://www.jetcity.net/wiki/pmwiki.php/CthuluSquad/CthuluSquad
+   1. ~~http://www.jetcity.net/wiki/pmwiki.php/CthuluSquad/CthuluSquad~~
    1. [\[archive\]](https://web.archive.org/web/20080502093051/http://www.jetcity.net:80/wiki/pmwiki.php/CthulhuSquad/CthulhuSquad)
    1. [\[local\]](cthulu.html)
 
 1. Powell, John. _Freeport Squad_. 09 Jan 2008
-   1. http://www.jetcity.net/wiki/pmwiki.php/FreeportSquad/FreeportSquad
+   1. ~~http://www.jetcity.net/wiki/pmwiki.php/FreeportSquad/FreeportSquad~~
    1. [\[archive\]](https://web.archive.org/web/20080502093056/http://www.jetcity.net/wiki/pmwiki.php/FreeportSquad/FreeportSquad)
    1. [\[local\]](freeport.html)
 
@@ -83,11 +83,11 @@ Here are all the _Dungeon Squad!_ resources I could find on the &rsquo;net. Many
    1. [\[local\]](Dungeon%20Squad%20II.pdf)
 
 1. Morningstar, Jason. _Kung Fu Squad_. ?
-   1. http://www.rpglaboratory.com/dungeon_squad/kung_fu_squad
+   1. ~~http://www.rpglaboratory.com/dungeon_squad/kung_fu_squad~~
    1. (looking for a copy)
 
 1. Morningstar, Jason. _Pirate Squad!_. 27 Oct 2006
-   1. http://www.rpglaboratory.com/pirate_squad
+   1. ~~http://www.rpglaboratory.com/pirate_squad~~
    1. [\[archive\]](https://web.archive.org/web/20061107005450/http://www.rpglaboratory.com/pirate_squad)
    1. [\[local\]](Pirate%20Squad.pdf)
 
