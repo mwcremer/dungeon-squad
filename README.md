@@ -83,7 +83,7 @@ Here are all the _Dungeon Squad!_ resources I could find on the &rsquo;net. Many
    1. [\[local\]](Dungeon%20Squad%20II.pdf)
 
 1. Morningstar, Jason. _Kung Fu Squad_. ?
-   1. http://www.rpglaboratory.com/dungeon_squad/kung_fu_squad
+   1. http://www.rpglaboratory.com/dungeon_squad/dungeon_squad/kung_fu_squad _(dead)_
    1. (looking for a copy)
 
 1. Morningstar, Jason. _Pirate Squad!_. 27 Oct 2006
