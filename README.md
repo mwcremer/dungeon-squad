@@ -35,6 +35,10 @@ Here are all the _Dungeon Squad!_ resources I could find on the &rsquo;net. Many
    1. https://markcausey.files.wordpress.com/2007/09/dsco.pdf
    1. [\[local\]](Dungeon%20Squad%20Coin%20Op.pdf)
 
+1. cremer, $mike. _Monster Patrol_. 02 Oct 2018
+   1. https://www.trite.net/mp
+   1. [\[local\]](Monster%20Patrol.pdf)
+
 1. Domino, Andrew. _Adventure Squad_. 06 Oct 2010
    1. http://dominowriting.com/ASQCoreV4.pdf _(dead)_
    1. [\[archive\]](https://web.archive.org/web/20101006003808/http://dominowriting.com/ASQCoreV4.pdf)
