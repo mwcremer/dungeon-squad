@@ -27,6 +27,10 @@ Here are all the _Dungeon Squad!_ resources I could find on the &rsquo;net. Many
    1. https://drive.google.com/file/d/0By7_mWrqlAQdNmQ0ZGRiZjYtZmFjOS00Y2ZlLTkyOTctMjMyOGQyZmNlODM0/view
    1. [\[local\]](Dungeon%20Squad%20X.pdf)
 
+1. Carryer, Simon. _Savage Donjon Squad_. Nov 2007
+   1. http://story-games.com/forums/discussion/4834/savage-donjon-squad
+   1. (looking for a copy)
+
 1. Causey, Mark. _Dungeon Squad! + Coin-Op_. 28 Sep 2007
    1. https://markcausey.files.wordpress.com/2007/09/dsco.pdf
    1. [\[local\]](Dungeon%20Squad%20Coin%20Op.pdf)
@@ -44,7 +48,11 @@ Here are all the _Dungeon Squad!_ resources I could find on the &rsquo;net. Many
    1. http://paratime.ca/zombie/
    1. [\[local\]](Zombie%20Squad.pdf)
 
-1. Ilj1. _Dungeon Squad Extended_. 06 Nov 2005
+1. Hero Guide, The. _Dungeon Squad 1.5_. 01 Oct 2007
+   1. http://hotdc.blogspot.com/2007/10/dungeon-squad-version-15.html
+   1. (looking for a copy)
+
+1. Ilja. _Dungeon Squad Extended_. 06 Nov 2005
    1. https://drive.google.com/file/d/0B760zHnATkDIdFktTjlJal9tXzg/view
    1. [\[local\]](Dungeon%20Squad%20Extended.pdf)
 
@@ -76,6 +84,7 @@ Here are all the _Dungeon Squad!_ resources I could find on the &rsquo;net. Many
 
 1. **Morningstar, Jason. _Dungeon Squad!_. 16 Jun 2005**
    1. http://www.1km1kt.net/rpg/dungeon-squad
+   1. [\[1d4chan\]](https://1d4chan.org/wiki/Dungeon_Squad)
    1. [\[local\]](Dungeon%20Squad.pdf)
 
 1. Morningstar, Jason. _Dungeon Squad II_. 2012?
@@ -90,6 +99,10 @@ Here are all the _Dungeon Squad!_ resources I could find on the &rsquo;net. Many
    1. http://www.rpglaboratory.com/pirate_squad _(dead)_
    1. [\[archive\]](https://web.archive.org/web/20061107005450/http://www.rpglaboratory.com/pirate_squad)
    1. [\[local\]](Pirate%20Squad.pdf)
+
+1. Neuicon. _Dungeon Squad: Adventures in the 41st Millennium_. 03 May 2008,
+   1. http://www.1km1kt.net/rpg/dungeon-squad-adventures-in-the-41st-millennium</a>
+   1. [\[local\]](Dungeon%20Squad%20Warhammer%2040K.pdf)
 
 1. Wallace, Michael. _Space Squad!_. 2007
    1. http://www.freewebs.com/skathrosds/SPACE%20SQUAD.pdf
